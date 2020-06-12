@@ -1,5 +1,9 @@
 #  Key Points Detection
 
+## Team Member: 
+Wenjie Duan, Peng Liu
+
+
 ## Kaggle Competition
 - https://www.kaggle.com/c/facial-keypoints-detection/data
 
